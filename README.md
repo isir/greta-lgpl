@@ -2,7 +2,9 @@
 
 **Realtime platform to control socio-emotional virtual characters**
 
-Welcome to the public repository of the Greta project!
+Welcome to the public repository of the Greta (LGPL) project!
+
+If you want to use Greta with latest functionalities with GPL license, please visit [HERE](https://github.com/isir/greta)
 
 ## Features
 1) A virtual character engine generating socio-emotional behaviors for natural interactions with human users.
@@ -78,4 +80,4 @@ In International Conference on Intelligent Virtual Agents (pp. 194-200). Springe
 
 Greta (LGPL version, this repository) is licensed under the GNU LGPL v3 (the master branch of the GitHub repository).
 
-If you want to use Greta with latest version with GPL license, please visit [HERE](https://github.com/isir/greta)
+If you want to use Greta with latest functionalities with GPL license, please visit [HERE](https://github.com/isir/greta)
