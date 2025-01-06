@@ -76,5 +76,6 @@ In International Conference on Intelligent Virtual Agents (pp. 194-200). Springe
 
 ## License
 
-Most parts of Greta are licensed under the GNU LGPL v3 (the master branch of the GitHub repository).
-Some parts of Greta are licensed under the GNU GPL v3 (the gpl branch of the GitHub repository); so if you use this branch, be aware that Greta will become GNU GPL v3 at the same time.
+Greta (LGPL version, this repository) is licensed under the GNU LGPL v3 (the master branch of the GitHub repository).
+
+If you want to use Greta with latest version with GPL license, please visit [HERE](https://github.com/isir/greta)
